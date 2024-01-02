@@ -1,0 +1,9 @@
+1.Write a bash script to generate od numbers from 1 to 100
+2.Write a shell script which takes input a variable and prints the output with the provided input
+3.Write a for loop to print the natural numbers from 1 to 50
+4.Write a bash script to perform addition, multiplication, product and quotient.
+5.Write a bash script to check to compare two numbers to print a statement if a number is less, greater or equal.
+6.Write a bash script, which reads one character from STDIN, displays "YES" if the character is 'Y' or 'y', displays "NO" if the character is 'N' or 'n'
+7.Write a bash script , which takes input as 3 variables , assuming variables as three sides of the triangle, if the 3 side are equal , output as "EQUILATERAL" , if two sides are equal , output as "ISOSCELES", else output as "SCALENE".
+8.Write a bash script to take the mathematical expression as input, and display the output rounded to 3 decimal places.
+9.Write a bash script, which takes a number as input and computes the average of all the numbers entered, and prints output rounded to three decimals

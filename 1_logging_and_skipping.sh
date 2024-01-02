@@ -29,7 +29,7 @@ fi
 done
 
 # Fifth Solution
-for ((i=1;i<=$new_value;i+5))
+for ((i=1;i<=$new_value;i=i+2))
 do
     echo $i
 done
